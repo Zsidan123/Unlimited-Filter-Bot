@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("⚙️ Help ⚙️", callback_data="help_data")
                 ]
             ]
         ),
@@ -243,12 +243,11 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("❗Don't Touch❗", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/joinchat/y7r_YFF9WTM0YTE1"),
+                    InlineKeyboardButton("Join Group ⚜️", url="https://t.me/Malayalam_New_Movie")
                 ]
             ]
         ),
@@ -263,13 +262,10 @@ async def about(client, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
+                
                 [
-                    InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
-                ],
-                [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("🔙BACK", callback_data="help_data"),
+                    InlineKeyboardButton("CLOSE🔒", callback_data="close_data"),
                 ]                
             ]
         ),
