@@ -2,10 +2,10 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+Dey ഞാൻ ഡ്രാഗൺ പൈലി🐉
+എന്നോട് മുട്ടാൻ നിക്കണ്ട...🤫
+ഞാൻ 𝖲𝗓 𝖢𝗈𝗆𝗉𝖺𝗇𝗒-യുടെ 𝖣𝗋𝖺𝗀𝗈𝗇 𝖡𝗈𝗍 ആണ്...😏:).</b>
 
-See <i>/help</i> for commands and more details.</b>
 """
 
 
@@ -48,16 +48,16 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @SzCompany</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name :ഡ്രാഗൺ പൈലി</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> അത് എന്തിനാ നീ അറിയുന്നത് 🧐
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>ഞാൻ മലയാളി ആണേയ് 😎</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Youtube :</b> <a href='https://youtube.com/channel/UCyFQzWSTqdkbWeVdmZIzmzQ'>Subscribe ചെയ്യുമോ 🥺</a> 
 
 """
