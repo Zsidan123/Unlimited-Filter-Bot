@@ -54,10 +54,8 @@ Dey ഞാൻ ഡ്രാഗൺ പൈലി🐉
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name :ഡ്രാഗൺ പൈലി</b>
+    ABOUT_MSG = """⚜️<b>My Name : ഡ്രാഗൺ പൈലി</b>
 
-⭕️<b>Creater :</b> അത് എന്തിനാ നീ അറിയുന്നത് 🧐
-
-⭕️<b>Youtube :</b> <a href='https://youtube.com/channel/UCyFQzWSTqdkbWeVdmZIzmzQ'>Subscribe ചെയ്യുമോ 🥺</a> 
+⚜️<b>Youtube :</b> <a href='https://youtube.com/channel/UCyFQzWSTqdkbWeVdmZIzmzQ'>Subscribe ചെയ്യുമോ 🥺</a> 
 
 """
