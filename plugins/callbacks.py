@@ -47,7 +47,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Don't Touch", callback_data="about_data")
+                    InlineKeyboardButton("❗Don't Touch❗", callback_data="about_data")
                 ],
                 [
                     InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/joinchat/y7r_YFF9WTM0YTE1"),
@@ -69,11 +69,10 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("🔙BACK", callback_data="help_data"),
+                    InlineKeyboardButton("CLOSE🔒", callback_data="close_data"),
                 ]                
             ]
         )
