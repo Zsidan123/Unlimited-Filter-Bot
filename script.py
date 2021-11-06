@@ -8,46 +8,7 @@ Ticket എടുക്കാൻ വന്നതാണോ??
 
 
     HELP_MSG = """
-<i>നീ വെറുതെ ഇതൊന്നും നോക്കണ്ട 
-എന്നെ നിൻ്റെ ഗ്രൂപ്പിൽ add ചെയ്യാൻ പറ്റില്ല😄</i>
-
-
-<b>Basic Commands;</b>
-
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
-
-
-<b>Filter Commands;</b>
-
-<code>/add name reply</code>  -  Add filter for name
-
-<code>/del name</code>  -  Delete filter
-
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-
-<code>/viewfilters</code>  -  List all filters in chat
-
-
-<b>Connection Commands;</b>
-
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-
-<code>/connections</code>  -  Manage your connections.
-
-
-<b>Extras;</b>
-
-/status  -  Shows current status of your bot (Auth User Only)
-
-/id  -  Shows ID information
-
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
-<b>© @SzCompany</b>
+<b>നിൻ്റെ സ്ഥലത്തിന് അടുത്തുള്ള തിയറ്ററിൻ്റെ പേരും, തിയേറ്റർ സ്ഥിതി ചെയ്യുന്ന സ്ഥലത്തിൻ്റെ പേരും എനിക്ക് അയക്കൂ</b>
 """
 
 
