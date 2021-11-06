@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⚙️ Help ⚙️", callback_data="help_data")
+                    InlineKeyboardButton("🎟️ Ticket 🎟️", callback_data="help_data")
                 ]
             ]
         ),
@@ -264,8 +264,7 @@ async def about(client, message):
             [
                 
                 [
-                    InlineKeyboardButton("🔙BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE🔒", callback_data="close_data"),
+                    InlineKeyboardButton("🔙BACK", callback_data="help_data")
                 ]                
             ]
         ),
