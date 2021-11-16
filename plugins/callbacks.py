@@ -86,7 +86,7 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("❗Click Here❗", callback_data="close")
                 ]
             ]
-         )
+        )
 
     elif query.data == "delallconfirm":
         userid = query.from_user.id
