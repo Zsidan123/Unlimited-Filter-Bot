@@ -262,7 +262,7 @@ async def about(client, message):
             [
                 
                 [
-                    InlineKeyboardButton("❗Click Here❗", callback_data="help_data")
+                    InlineKeyboardButton("❗Click Here❗", callback_data="close")
                 ]                
             ]
         ),
