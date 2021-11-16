@@ -217,7 +217,11 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🎟️ Ticket 🎟️", callback_data="help_data")
+                    InlineKeyboardButton("❗HELP❗", callback_data="help_data")
+                ],
+                [
+                    InlineKeyboardButton('⚜️ Join Channel', url='https://t.me/joinchat/y7r_YFF9WTM0YTE1''),
+                    InlineKeyboardButton('Join Group ⚜️', url='https://t.me/joinchat/KBCxii_zxLJhMzk9')
                 ]
             ]
         ),
@@ -242,9 +246,6 @@ async def help(client, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton("❗Don't Touch❗", callback_data="about_data")
-                ],
                 [
                     InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/joinchat/y7r_YFF9WTM0YTE1"),
                     InlineKeyboardButton("Join Group ⚜️", url="https://t.me/Malayalam_New_Movie")
