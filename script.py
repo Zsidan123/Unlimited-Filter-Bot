@@ -15,4 +15,4 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """
+    ABOUT_MSG = """What You Want"""
