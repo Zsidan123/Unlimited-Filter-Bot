@@ -66,7 +66,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❗Click Here❗", callback_data="close")
+                    InlineKeyboardButton("❗Click Here❗", callback_data="help_data")
                 ]                
             ]
         )
@@ -80,13 +80,7 @@ async def cb_handler(client, query):
 
     elif query.data == "close_data":
         await query.message.delete()
-        keyboard = InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton("❗Click Here❗", callback_data="close")
-                ]
-            ]
-        )
+        
 
     elif query.data == "delallconfirm":
         userid = query.from_user.id
