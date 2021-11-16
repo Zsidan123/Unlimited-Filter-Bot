@@ -217,7 +217,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❗HELP❗", callback_data="help_data")
+                    InlineKeyboardButton('⚜️ Join Channel', url='https://t.me/joinchat/y7r_YFF9WTM0YTE1''),
+                    InlineKeyboardButton('Join Group ⚜️', url='https://t.me/joinchat/KBCxii_zxLJhMzk9')
                 ]
             ]
         ),
