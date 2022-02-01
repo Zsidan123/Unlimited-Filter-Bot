@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """CAACAgIAAxkBAAENzq9h-OOwnSb-7eCie7nkXGFpG2v_LQACoAADlp-MDmce7YYzVgABVSME"""
+    START_MSG = """👋"""
 
 
     HELP_MSG = """
