@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """Hi"""
+    START_MSG = """CAACAgIAAxkBAAENzq9h-OOwnSb-7eCie7nkXGFpG2v_LQACoAADlp-MDmce7YYzVgABVSME"""
 
 
     HELP_MSG = """
@@ -8,4 +8,4 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """😊"""
+    ABOUT_MSG = """👇"""
