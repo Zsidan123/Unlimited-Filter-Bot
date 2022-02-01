@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/joinchat/y7r_YFF9WTM0YTE1"),
+                    InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/+bZW9FDDBXHhjZWI1"),
                     InlineKeyboardButton("Join Group ⚜️", url="https://t.me/Malayalam_New_Movie")
                 ]
             ]
