@@ -30,8 +30,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/joinchat/y7r_YFF9WTM0YTE1"),
-                    InlineKeyboardButton("Join Group ⚜️", url="https://t.me/Malayalam_New_Movie")
+                    InlineKeyboardButton("⚜️ Join ⚜️", url="https://t.me/+bZW9FDDBXHhjZWI1")
                 ]
             ]
         )
@@ -48,8 +47,8 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [ 
-                    InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/joinchat/y7r_YFF9WTM0YTE1"),
-                    InlineKeyboardButton("Join Group ⚜️", url="https://t.me/Malayalam_New_Movie")
+                    InlineKeyboardButton("⚜️ Join Channel", url="https://t.me/+bZW9FDDBXHhjZWI1"),
+                    InlineKeyboardButton('Join Group ⚜️', url='https://t.me/joinchat/KBCxii_zxLJhMzk9')
                 ]
             ]
         )
